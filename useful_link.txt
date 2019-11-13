@@ -1,0 +1,8 @@
+https://okfnlabs.org/blog/2016/04/19/pdf-tools-extract-text-and-data-from-pdfs.html
+https://gist.github.com/vinovator/c78c2cb63d62fdd9fb67
+pdfminer3k example
+https://github.com/ie-it/PDF-2-DOC-Utility
+
+https://github.com/Nexuist/PDF-2-DOC-Utility
+
+pdf2doc python
