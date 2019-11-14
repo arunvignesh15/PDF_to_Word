@@ -6,3 +6,29 @@ https://github.com/ie-it/PDF-2-DOC-Utility
 https://github.com/Nexuist/PDF-2-DOC-Utility
 
 pdf2doc python
+
+---------------------------
+for pdt2word script the "pip install pdfminer.six" and unistall the pdfminer3k by using "pip uninstall pdfminer3k package"  
+
+> https://www.quora.com/How-do-I-convert-from-PDF-to-HTML-using-Java
+
+https://ubuntuforums.org/showthread.php?t=2053847 - imp
+http://soft.rubypdf.com/software/pdf2htmlex-windows-version/comment-page-2
+
+https://stackoverflow.com/questions/48056684/pdf-to-text-python-3-6-pdfminer-no-module-named-pdfminerhttps://github.com/shakkaist/Python/blob/master/Day2Session2/pdfconverter.py
+https://www.geeksforgeeks.org/python-convert-html-pdf/
+
+
+
+http://component-parts.blogspot.com/2015/02/building-pdf2htmlex-for-windows.html
+https://github.com/coolwanglu/pdf2htmlEX/wiki/Introduction
+https://gitlab.com/anupamme/pdf2htmlEX
+https://stackoverflow.com/questions/42779184/how-can-i-convert-html-to-word-docx-in-python
+https://stackoverflow.com/questions/4226095/html-to-doc-converter-in-python/4227062#4227062
+https://github.com/witwall/pdf2htmlEX
+https://gitlab.com/anupamme/pdf2htmlEX
+
+
+
+https://stackoverflow.com/questions/14256149/how-to-convert-pdf-to-html-using-pdf2htmlex-and-python
+https://stackoverflow.com/questions/42779184/how-can-i-convert-html-to-word-docx-in-python -imp html to word converter using python
